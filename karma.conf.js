@@ -46,8 +46,8 @@ module.exports = function(config) {
     // - IE (only Windows)
     // CLI --browsers Chrome,Firefox,Safari
     browsers: process.env.TRAVIS ? [ 'Firefox' ] : [
-      'Firefox',
-      'Chrome'
+      'Firefox'
+      //'Chrome'
     ],
 
     preprocessors: {
