@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/clarkeadg/wellTested.svg?branch=master)](https://travis-ci.org/clarkeadg/wellTested)
+
 # wellTested
 > A simple, well-tested todo app
 
