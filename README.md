@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/clarkeadg/wellTested.svg?branch=master)](https://travis-ci.org/clarkeadg/wellTested)
 
-
+[![Coverage Status](https://coveralls.io/repos/clarkeadg/wellTested/badge.svg?branch=master)](https://coveralls.io/r/clarkeadg/wellTested?branch=master)
 
 # wellTested
 > A simple, well-tested todo app
